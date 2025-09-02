@@ -298,4 +298,4 @@ Loja
   </script>
 
 </body>
-</html>https://github.com/brunocassianoargolo10/Revercicly/commit/ed86b0c22f480c13a81b00b2383ff864d71540aa 
+</html>
